@@ -1,0 +1,7 @@
+git init
+git add index.html
+git commit -m "İlk site dosyam"
+git branch -M main
+git remote add origin https://github.com/kullaniciadi/ruyaal.ap
+git push -u origin main
+
